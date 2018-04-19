@@ -1,0 +1,8 @@
+__pycache__
+.DS_Store
+.git
+species_detail.json
+species_site.json
+species.db
+wwf_species.json
+xi_final

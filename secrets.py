@@ -1,2 +1,2 @@
-clientId="8e920a7bfac3"
-clientSecret="99a61ac4d3542ffc0a628d8d870253208f0e7db5"
+# put your google api key here and rename this file to secrets.py
+google_places_key = ''
