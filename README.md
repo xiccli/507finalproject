@@ -5,6 +5,9 @@ This project aims at collecting 100 wildlife species data from WWF webiste.
 
 Here, interactive command line prompt together with plotly are applied to help generate visualizing information about some of these data.
 
+
+***NOTE: please run part1.py before you use test.py***
+
 ***How to use it?*** </br>
 
 In this project, you will need to have a Google Map API Key to generate species' map. you can put it into **secrets.py** file </br>
