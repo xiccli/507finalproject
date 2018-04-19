@@ -570,8 +570,12 @@ if __name__ == "__main__":
             print ("population data is ready.")
             userinput_2=input('Please enter conservation status:')
             print ("wait for a moment... plotly is working hard to generate plot ... ... ")
-            plot_population(userinput_2)
-            userinput=input('Enter command (or "help" for options):')
+            if userinput_2 in ["Vulnerable","Endangered","Near Threatened","Critically Endangered","Least Concern"]:
+                plot_population(userinput_2)
+                userinput=input('Enter command (or "help" for options):')
+            else:
+                print (" (*ﾟДﾟ*) I don't understand what you said. Please refer to help document and try again")
+                userinput=input('Enter command (or "help" for options):')
         elif userinput == "map":
             print ("wait for a moment... plotly is working hard to generate plot ... ... ")
             plot_speciesloc()
