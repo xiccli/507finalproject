@@ -543,7 +543,7 @@ if __name__ == "__main__":
     while userinput != "exit":
         if userinput == "help":
             serinput=input('''
-                1. learn about a specific species
+                1. learn about specific species
                     intro: you can learn about species' brief information, 10 as a group, there are 100 in total
                     valid input: to begin viewing information about species, please enter "list species", after that, enter a number from 1-10 to see 10 species introduction at a time.
 
