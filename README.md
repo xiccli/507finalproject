@@ -37,8 +37,8 @@ similar to map, but this time you will see a bar chart: </br>
 
 </br>
 </br>
-If everything goes smoothly, you will also find a database in file, which includes 2 tables and they will look like: </br>
-![database](https://raw.githubusercontent.com/xiccli/507finalproject/master/outputs_sample/database2.png)
+If everything goes smoothly, you will also find a database in file, which includes 2 tables and they will look like:
+![database](https://raw.githubusercontent.com/xiccli/507finalproject/master/outputs_sample/database1.png)
 
 If users input something wrong, they will see:
 ![wrongmsg](https://raw.githubusercontent.com/xiccli/507finalproject/master/outputs_sample/errormsg.png)
