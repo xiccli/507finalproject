@@ -1,17 +1,11 @@
 # 507finalproject
 
 
-Brief description of how your code is structured, including the names of significant data processing functions (just the 2-3 most important functions--not a complete list) and class definitions. If there are large data structures (e.g., lists, dictionaries) that you create to organize your data for presentation, briefly describe them.
-Brief user guide, including how to run the program and how to choose presentation options.
-
-
-
 
 ***Project Goal*** </br>
 This project aims at collecting 100 wildlife species data from WWF webiste.</br>
 
 Here, interactive command line prompt together with plotly are applied to help generate visualizing information about some of these data.</br>
-
 
 
 

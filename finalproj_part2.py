@@ -52,7 +52,7 @@ class species():
         self.place=place
         self.generalhabitat=generalhabitat
     def __str__(self):
-        return "{} ({}): {} animal, has a population of around {}. Its lives in habitats with {}, currently in {}".format(self.name, self.scientificname, self.status, self.population,self.generalhabitat,self.place)
+        return "{} ({}): {} animal, has a population of around {}. It lives in habitats with {}, currently in {}".format(self.name, self.scientificname, self.status, self.population,self.generalhabitat,self.place)
 
 # ---------------------------- 1.2 open cached file and export raw data as dict -----------------------------
 with open(SPECIESJS) as f_species:
