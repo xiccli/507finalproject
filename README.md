@@ -22,15 +22,27 @@ There are 3 python documents in this project. </br>
 ***What are the final outputs in interactive prompt?*** </br>
 If you choose *list species* </br>
 you may get a result in terminal looks like: </br>
-<!-- https://github.com/xiccli/507finalproj/results_img/分支名master/图片文件夹名称/***.png or***.jpg -->
+![listofspecies](https://github.com/xiccli/507finalproject/outputs_sample/listspecies.png)
+</br>
+</br>
 
 If you choose *map* </br>
 you will need to wait for a moment and a map will be generated in browser: </br>
-
+![speciesmap](https://github.com/xiccli/507finalproject/outputs_sample/map.png)
+</br>
+</br>
 If you choose *population* </br>
 similar to map, but this time you will see a bar chart: </br>
+![barchartofpopulation](https://github.com/xiccli/507finalproject/outputs_sample/population.png)
 
-If everything goes smoothly, you will also find a database in file, which includes 2 tables and one of them looks like this: </br>
+</br>
+</br>
+If everything goes smoothly, you will also find a database in file, which includes 2 tables and they will look like: </br>
+![database1](https://github.com/xiccli/507finalproject/outputs_sample/database1.png)
+![database2](https://github.com/xiccli/507finalproject/outputs_sample/database2.png)
+
+If users input something wrong, they will see:
+![wrongmsg](https://github.com/xiccli/507finalproject/outputs_sample/errormsg.png)
 
 
 Thanks! :)
