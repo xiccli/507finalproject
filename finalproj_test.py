@@ -14,7 +14,7 @@ class TestFinalProject(unittest.TestCase):
 
     def test_class(self):
         self.assertEqual(species_class_ls[0].scientificname,"Loxodonta africana")
-        output_test="Albacore Tuna (Thunnus alalunga): Near Threatened animal, has a population of around None. Its lives in habitats with Ocean Habitat, currently in The Galápagos, Coral Triangle, Coastal East Africa"
+        output_test="Albacore Tuna (Thunnus alalunga): Near Threatened animal, has a population of around None. It lives in habitats with Ocean Habitat, currently in The Galápagos, Coral Triangle, Coastal East Africa"
         self.assertEqual(species_class_ls[2].__str__(),output_test)
         self.assertEqual(species_class_ls[8].length,"around 21 feet")
         self.assertTrue(species_class_ls[-1].name,"Yellowfin Tuna")
